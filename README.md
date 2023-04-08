@@ -1,2 +1,2 @@
-# Calculate-Me
+# Calculate
 
